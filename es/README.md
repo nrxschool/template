@@ -1,14 +1,13 @@
-### **English Translation**
-# COURSE NAME
+# NOMBRE DEL CURSO
 
-## Legend
+## Leyenda
 
-| Emoji | Meaning       |
+| Emoji | Significado   |
 | ----- | ------------ |
-| ⏰    | To do        |
-| ✔     | Lesson prepared |
-| ✅    | Lesson recorded |
+| ⏰    | Por hacer    |
+| ✔     | Lección preparada |
+| ✅    | Lección grabada |
 
-## Module 1 [Introduction to Web3]
+## Módulo 1 [Introducción a Web3]
 
-- ⏰ [Lesson 1: Introduction to Web3](./mod1/aula1/README.md)
+- ⏰ [Lección 1: Introducción a Web3](./mod1/aula1/README.md)
