@@ -1,15 +1,11 @@
-# NOME DO CURSO
+### Para ler em português, clique [**aqui**](./pt/README.md)
 
-## Legenda
+__________________________
 
-| Emoji | Significado    |
-| ----- | -------------- |
-| ⏰    | A fazer        |
-| ✔     | Aula preparada |
-| ✅    | Aula gravada   |
+### Para leer en español, haz clic [**aquí**](./es/README.md)
 
-## Módulo 1 [Introdução a Web3]
+__________________________
 
-- ⏰ [aula 1: Introdução a web3](./mod1/aula1/README.md)
+### To read in English, click [**here**](./en/README.md)
 
-...
+
